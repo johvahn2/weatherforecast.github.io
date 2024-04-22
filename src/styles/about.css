@@ -1,0 +1,29 @@
+
+
+.title{
+    text-align: center;
+}
+
+#about {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #666;
+    margin-top: 30px;
+}
+
+
+
+ul{
+    margin-left: 30px;
+}

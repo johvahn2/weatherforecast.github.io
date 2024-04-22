@@ -1,0 +1,73 @@
+.search-box{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.content-box{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px;
+}
+
+.current-location .title{
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+
+.current-location .temp{
+    font-size: 17px;
+}
+
+.current-location .meta{
+    margin-top: 12px;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+.favorites .title{
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+.list{
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+
+.favorites .item{
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 15px 60px;
+    background-color: #707070;
+    color: #fff;
+}
+
+.favorites .item .header{
+    font-size: 18px;
+}
+
+.favorites .item .temp{
+    font-size: 15px;
+}
+
+.favorites .item .meta{
+    margin-top: 12px;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.favorites button {
+    margin-top: 10px;
+}

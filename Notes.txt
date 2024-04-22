@@ -1,0 +1,2 @@
+Unable to do search lookup; only available for a Plan Subscription
+Unable to do future forecast, its only avaliable for Subscription Plans
